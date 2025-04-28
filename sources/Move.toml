@@ -4,7 +4,7 @@ version = "0.0.1"
 edition = "2024"
 
 [addresses]
-fundmint = "_"
+fundmint = "0xdcf1045ce0b12dfafb86b1c91e9ea42e4b8f2e58e7c5602bd9501db2b9395324"
 
 [dev-addresses]
 fundmint = "0xdcf1045ce0b12dfafb86b1c91e9ea42e4b8f2e58e7c5602bd9501db2b9395324"
